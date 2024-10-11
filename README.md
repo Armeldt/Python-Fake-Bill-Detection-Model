@@ -1,4 +1,4 @@
-# Python-Fake-Bill-Detection-Model
+# Fake bill detection tool with Python
 
 ![alt text](https://github.com/Armeldt/Python-Fake-Bill-Detection-Model/blob/main/Ressources/logo.PNG?raw=true)
 
