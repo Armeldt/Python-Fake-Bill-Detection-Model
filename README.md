@@ -26,7 +26,7 @@ For the last project of my data analysis training, I worked as a consultant for 
       
     - Prepare the Python model for live testing, ensuring it can handle new, unseen data effectively.
   
-    - Build an executable which encapsulate the trained model, enabling users to easily use it without needing to intercat with Python.
+    - Build an executable application which encapsulate the trained model, enabling users to easily use it without needing to intercat with Python.
 
 4. Reporting and Presentation:
 
