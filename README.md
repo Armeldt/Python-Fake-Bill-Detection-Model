@@ -1,5 +1,7 @@
 # Python-Fake-Bill-Detection-Model
 
+![alt text](https://github.com/Armeldt/SQL-RealEstateData/blob/main/Ressources/logo.png?raw=true)
+
 ## Detailed Project Description:
 
 For the last project of my data analysis training, I worked as a consultant for the National Organization for Counterfeit Money Control (ONCFM). The objective was to develop a Python-based model capable of identifying counterfeit euro bills by analyzing specific dimensions and features of the bills.
