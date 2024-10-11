@@ -1,6 +1,6 @@
 # Python-Fake-Bill-Detection-Model
 
-![alt text](https://github.com/Armeldt/SQL-RealEstateData/blob/main/Ressources/logo.png?raw=true)
+![alt text](https://github.com/Armeldt/Python-Fake-Bill-Detection-Model/blob/main/Ressources/logo.PNG?raw=true)
 
 ## Detailed Project Description:
 
